@@ -8,3 +8,5 @@ git clone https://github.com/krypton-byte/Tools-Api
 cd Tools-Api
 bash main.sh
 ```
+#screenshot
+<img src="a.png">
